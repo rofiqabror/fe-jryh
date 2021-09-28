@@ -16,6 +16,7 @@
 	<link href="./style/vendor/owl-carousel/owl.carousel.css" rel="stylesheet">
 	<link rel="stylesheet" href="./style/icons/font-awesome/css/all.css">
     <link href="./style/vendor/datatables/css/jquery.dataTables.min.css" rel="stylesheet">
+	
 
 
 </head>
@@ -553,7 +554,7 @@
                     <div class="collapse navbar-collapse justify-content-between">
                         <div class="header-left">
 							<div class="dashboard_bar">
-								dashboard
+								Dashboard
 							</div>
                         </div>
 

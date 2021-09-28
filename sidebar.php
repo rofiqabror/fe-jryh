@@ -1,18 +1,23 @@
 <div class="deznav">
     <div class="deznav-scroll">
         <ul class="metismenu" id="menu">
-            <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
+            <li><a class="has-arrow ai-icon" href="dashboard.php" aria-expanded="false">
                     <i class="far fa-address-card"></i>
                     <span class="nav-text">Dashboard</span>
                 </a>
             </li>
+            <li><a class="has-arrow ai-icon" href="program-donasi.php" aria-expanded="false">
+                    <i class="fas fa-list"></i>
+                    <span class="nav-text">Program Donasi</span>
+                </a>
+            </li>
             <li><a class="has-arrow ai-icon" href="donasi.php" aria-expanded="false">
-                    <i class="fas fa-user"></i>
+                    <i class="fas fa-donate"></i>
                     <span class="nav-text">donasi</span>
                 </a>
             </li>
             <li><a class="has-arrow ai-icon" href="penarikan.php" aria-expanded="false">
-                    <i class="flaticon-381-networking"></i>
+                    <i class="fas fa-hand-holding-heart"></i>
                     <span class="nav-text">penarikan</span>
                 </a>
             </li>
